@@ -1,0 +1,19 @@
+{
+  "name": "assign-mentor",
+  "version": "1.0.0",
+  "description": "Assign Mentor Task",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.7.0",
+    "node": "^22.9.0",
+    "uuid": "^10.0.0"
+  }
+}
